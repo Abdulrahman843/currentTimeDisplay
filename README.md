@@ -18,7 +18,7 @@ This simple project displays the current time on a webpage and updates it every 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Abdulrahman843/current-time-display.git
+    git clone https://github.com/Abdulrahman843/currentTimeDisplay.git
     ```
 
 2. **Navigate to the project directory**:
