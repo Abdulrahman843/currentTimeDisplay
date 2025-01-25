@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif; /* Standard sans-serif font for clean text display */
+  line-height: 1.6; /* Increased line height for better readability */
+  padding: 20px; /* Padding around the content for a non-cramped layout */
+}
+
+#time {
+  font-size: 24px; /* Larger text for important time display element */
+}
